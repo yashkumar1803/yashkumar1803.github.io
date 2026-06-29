@@ -50,8 +50,7 @@ cv:
         endDate: 2016
 
     Publications:
-      - name: Efficient mathematical programming formulation and algorithmic framework 
-        for optimal camera placement
+      - name: Efficient mathematical programming formulation and algorithmic framework for optimal camera placement
         publisher: Computers & Operations Research
         releaseDate: "2026"
         authors: Y Kumar, R Bollapragada, BD Leibowicz
