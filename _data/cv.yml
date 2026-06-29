@@ -1,9 +1,8 @@
 cv:
   name: Yash Kumar
-  label: Student
+  label: PhD Student
   email: yashkumar1803@utexas.edu
   location: Austin, TX
-  image: ""
   summary: PhD Candidate in Operations Research at UT Austin, specializing in nonlinear optimization, algorithm development, and mathematical modeling.
 
   social_networks:
