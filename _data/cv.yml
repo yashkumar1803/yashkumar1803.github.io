@@ -1,10 +1,10 @@
 cv:
   name: Yash Kumar
-  label: Scientist
+  label: Student
   email: yashkumar1803@utexas.edu
   location: Austin, TX
   image: ""
-  summary: Ph.D. Candidate in Operations Research at UT Austin, specializing in nonlinear optimization, algorithm development, and mathematical modeling.
+  summary: PhD Candidate in Operations Research at UT Austin, specializing in nonlinear optimization, algorithm development, and mathematical modeling.
 
   social_networks:
     - network: GitHub
@@ -13,7 +13,7 @@ cv:
       username: yash-kumar
 
   address:
-    street: 2712 Broadway St
+    street: 7117 Wood Hollow Dr
     city: Austin
     region: Texas
     postalCode: TX 78731
@@ -70,12 +70,12 @@ cv:
         releaseDate: "2022"
         authors: Y Kumar, R Hoesly, A Venkatesh, E Shuster, A Iyengar
 
-  skills:
-    - label: Research Areas
-      details: Nonlinear Optimization, Algorithm Development, Mathematical Modeling
+    Skills:
+      - label: Research Areas
+        details: Nonlinear Optimization, Algorithm Development, Mathematical Modeling
 
-    - label: Programming
-      details: Python
+      - label: Programming
+        details: Python
 
     Languages:
       - name: English
