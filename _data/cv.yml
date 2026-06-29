@@ -7,12 +7,10 @@ cv:
   summary: Ph.D. Candidate in Operations Research at UT Austin, specializing in nonlinear optimization, algorithm development, and mathematical modeling.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: yashkumar1803
     - network: LinkedIn
-      username: example
+      username: yash-kumar
 
   address:
     street: 2712 Broadway St
