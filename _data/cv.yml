@@ -1,86 +1,80 @@
 cv:
   name: Yash Kumar
-  label: PhD Student
+  headline: Ph.D. Candidate in Operations Research
+  location: Austin, TX, USA
   email: yashkumar1803@utexas.edu
-  location: Austin, TX
-  summary: PhD Candidate in Operations Research at UT Austin, specializing in nonlinear optimization, algorithm development, and mathematical modeling.
-
   social_networks:
     - network: GitHub
       username: yashkumar1803
     - network: LinkedIn
       username: yash-kumar
-
-  address:
-    street: 7117 Wood Hollow Dr
-    city: Austin
-    region: Texas
-    postalCode: TX 78731
-    countryCode: US
-
   sections:
     Education:
-      - institution: The University of Texas at Austin
-        location: Austin, TX
-        url: https://www.utexas.edu/
+      - institution: University of Texas at Austin
         area: Operations Research
-        studyType: PhD
-        start_date: 2021
-        end_date: 2027
-
-      - institution: The University of Texas at Austin
-        location: Austin, TX
-        url: https://www.utexas.edu/
+        degree: PhD
+        start_date: 2021-08
+        end_date: present
+      - institution: University of Texas at Austin
         area: Statistics
-        studyType: MS
-        start_date: 2021
-        end_date: 2026
-
+        degree: MS
+        start_date: 2021-08
+        end_date: 2026-05
       - institution: Carnegie Mellon University
         area: Energy Science
-        studyType: MS
-        startDate: 2017
-        endDate: 2018
-
+        degree: MS
+        start_date: 2017-08
+        end_date: 2018-12
       - institution: Indian Institute of Technology Delhi
-        area: Electrical Engineering in Power and Automation
-        studyType: BTech
-        startDate: 2012
-        endDate: 2016
+        area: Electrical Engineering
+        degree: BTech
+        start_date: 2012-08
+        end_date: 2016-05
 
     Publications:
-      - name: Efficient mathematical programming formulation and algorithmic framework for optimal camera placement
-        publisher: Computers & Operations Research
-        releaseDate: "2026"
-        authors: Y Kumar, R Bollapragada, BD Leibowicz
-
-      - name: Resource Planning and Equitable Work Assignment for On-site Services
-        publisher: International Network Optimization Conference
-        releaseDate: "2024"
-        authors: Y Kumar, A Balakrishnan, P Mirchandani
-
-      - name: "Market analysis for the integration of new power technologies: A case study of the deployment of hybrid fossil-based generator plus energy storage (ES-FE)"
-        publisher: Applied Energy 351, 121861
-        releaseDate: "2023"
-        authors: IP Cabra, S Sharma, C Callahan, K Jani, Y Kumar, V Toetz, E Shuster
-
-      - name: "Effects of Short-Term Water Constraints on Electricity Dispatch: A Case Study of ERCOT and SPP Regions"
-        publisher: ACS ES&T Water 2 (5), 749-758
-        releaseDate: "2022"
-        authors: Y Kumar, R Hoesly, A Venkatesh, E Shuster, A Iyengar
+      - name: "Efficient mathematical programming formulation and algorithmic framework for optimal camera placement"
+        journal: Computers & Operations Research
+        date: "2026"
+        authors:
+          - Y Kumar
+          - R Bollapragada
+          - BD Leibowicz
+      - name: "Resource Planning and Equitable Work Assignment for On-site Services"
+        journal: International Network Optimization Conference
+        date: "2024"
+        authors:
+          - Y Kumar
+          - A Balakrishnan
+          - P Mirchandani
+      - name: "Market analysis for the integration of new power technologies - A case study of the deployment of hybrid fossil-based generator plus energy storage (ES-FE)"
+        journal: "Applied Energy 351, 121861"
+        date: "2023"
+        authors:
+          - IP Cabra
+          - S Sharma
+          - C Callahan
+          - K Jani
+          - Y Kumar
+          - V Toetz
+          - E Shuster
+      - name: "Effects of Short-Term Water Constraints on Electricity Dispatch - A Case Study of ERCOT and SPP Regions"
+        journal: "ACS ES&T Water 2 (5), 749-758"
+        date: "2022"
+        authors:
+          - Y Kumar
+          - R Hoesly
+          - A Venkatesh
+          - E Shuster
+          - A Iyengar
 
     Skills:
       - label: Research Areas
         details: Nonlinear Optimization, Algorithm Development, Mathematical Modeling
-
       - label: Programming
         details: Python
 
     Languages:
-      - name: English
-        summary: "Native speaker"
-
-      - name: Hindi
-        summary: "Native speaker"
-
-   
+      - label: English
+        details: Native
+      - label: Hindi
+        details: Native
